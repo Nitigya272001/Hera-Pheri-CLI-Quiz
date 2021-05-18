@@ -10,4 +10,4 @@
 8. Beat the highscore and send me the screenshot, I have rewards waiting for you.
 9. You can play it at :- 
 
-#####Tech Stalk :- Javascript, ChalkJS, readlinesyncJS
+##### Tech Stalk :- Javascript, ChalkJS, readlinesyncJS
